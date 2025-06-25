@@ -70,5 +70,9 @@ Add your license information here.
 
 ## Contact
 
+<<<<<<< Updated upstream
+For questions or suggestions, please contact [your-email@example.com].
+>>>>>>> Stashed changes
+=======
 For questions or suggestions, please contact [your-email@example.com].
 >>>>>>> Stashed changes
